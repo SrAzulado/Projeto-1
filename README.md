@@ -62,4 +62,3 @@ p {
     <p class="box-3 box destaque sombra">Hello, My Name is Alan. I'm 15 years old, I started programming for fun and because I wanted to know how the websites, games and apps where made so I discovered programming, I'm a Front-end Web developer, , I think I'm still a Junior Here, I guess ^^, But with the days I'll improve my skills and be better.</p>
 </body>
 </html>
-
